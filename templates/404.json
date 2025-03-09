@@ -1,1 +1,70 @@
-{"sections":{"main-404":{"type":"main-404","settings":{"heading_size":"title-xl tracking-heading","padding_top":120,"padding_bottom":120,"rounded":false}},"empty-space":{"type":"empty-space","settings":{"desktop_height":120,"mobile_height":20}}},"order":["main-404","empty-space"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "scrolling_text_G6KdhP": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_w3B8r7": {
+          "type": "text",
+          "settings": {
+            "text": "Welcome to our store",
+            "text_size": 160,
+            "text_font": "body",
+            "stencil_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_w3B8r7"
+      ],
+      "settings": {
+        "direction": "right",
+        "speed": 30,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "main-404": {
+      "type": "main-404",
+      "settings": {
+        "heading_size": "title-xl tracking-heading",
+        "heading_tag": "h1",
+        "padding_top": 120,
+        "padding_bottom": 120,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 120,
+        "mobile_height": 20,
+        "color_background": "",
+        "gradient_background": ""
+      }
+    }
+  },
+  "order": [
+    "scrolling_text_G6KdhP",
+    "main-404",
+    "empty-space"
+  ]
+}
