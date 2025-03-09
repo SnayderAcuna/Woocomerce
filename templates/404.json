@@ -40,28 +40,6 @@
         "rounded": false
       }
     },
-    "empty-space": {
-      "type": "empty-space",
-      "settings": {
-        "desktop_height": 120,
-        "mobile_height": 20,
-        "color_background": "",
-        "gradient_background": ""
-      }
-    },
-    "main-404": {
-      "type": "main-404",
-      "disabled": true,
-      "settings": {
-        "heading_size": "title-xl tracking-heading",
-        "heading_tag": "h1",
-        "padding_top": 120,
-        "padding_bottom": 120,
-        "divider": false,
-        "narrow": true,
-        "rounded": false
-      }
-    },
     "slideshow_wm7WH4": {
       "type": "slideshow",
       "blocks": {
@@ -86,11 +64,47 @@
             "button_link": "",
             "button_secondary_style": false
           }
+        },
+        "image_4k8T3p": {
+          "type": "image",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_secondary_style": false
+          }
+        },
+        "image_d6N9rj": {
+          "type": "image",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_secondary_style": false
+          }
+        },
+        "image_hMYTT6": {
+          "type": "image",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_secondary_style": false
+          }
         }
       },
       "block_order": [
         "image_gPD9qK",
-        "image_xeQVNw"
+        "image_xeQVNw",
+        "image_4k8T3p",
+        "image_d6N9rj",
+        "image_hMYTT6"
       ],
       "settings": {
         "autoplay": false,
@@ -114,6 +128,28 @@
         "rounded": false,
         "enable_parallax": false,
         "parallax_direction": "vertical"
+      }
+    },
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 120,
+        "mobile_height": 20,
+        "color_background": "",
+        "gradient_background": ""
+      }
+    },
+    "main-404": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {
+        "heading_size": "title-xl tracking-heading",
+        "heading_tag": "h1",
+        "padding_top": 120,
+        "padding_bottom": 120,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
       }
     }
   },
