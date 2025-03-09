@@ -25,6 +25,7 @@
       "block_order": [
         "text_w3B8r7"
       ],
+      "disabled": true,
       "settings": {
         "direction": "right",
         "speed": 30,
@@ -47,7 +48,7 @@
           "type": "image",
           "settings": {
             "heading": "Image slide",
-            "heading_size": "title-lg tracking-heading",
+            "heading_size": "title-xl tracking-heading",
             "heading_tag": "h2",
             "button_label": "",
             "button_link": "",
@@ -110,7 +111,7 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "show_navigation": true,
-        "image_height": "650px",
+        "image_height": "100vh",
         "content_width": "small",
         "image_height_mobile": "auto",
         "color_text": "#ffffff",
