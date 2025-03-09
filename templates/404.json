@@ -134,7 +134,7 @@
     "empty-space": {
       "type": "empty-space",
       "settings": {
-        "desktop_height": 120,
+        "desktop_height": 36,
         "mobile_height": 20,
         "color_background": "",
         "gradient_background": ""
