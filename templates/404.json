@@ -40,8 +40,18 @@
         "rounded": false
       }
     },
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 120,
+        "mobile_height": 20,
+        "color_background": "",
+        "gradient_background": ""
+      }
+    },
     "main-404": {
       "type": "main-404",
+      "disabled": true,
       "settings": {
         "heading_size": "title-xl tracking-heading",
         "heading_tag": "h1",
@@ -52,19 +62,65 @@
         "rounded": false
       }
     },
-    "empty-space": {
-      "type": "empty-space",
+    "slideshow_wm7WH4": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gPD9qK": {
+          "type": "image",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_secondary_style": false
+          }
+        },
+        "image_xeQVNw": {
+          "type": "image",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_secondary_style": false
+          }
+        }
+      },
+      "block_order": [
+        "image_gPD9qK",
+        "image_xeQVNw"
+      ],
       "settings": {
-        "desktop_height": 120,
-        "mobile_height": 20,
-        "color_background": "",
-        "gradient_background": ""
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "show_navigation": true,
+        "image_height": "650px",
+        "content_width": "small",
+        "image_height_mobile": "auto",
+        "color_text": "#ffffff",
+        "color_background": "#ffffff",
+        "gradient_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 20,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
       }
     }
   },
   "order": [
     "scrolling_text_G6KdhP",
-    "main-404",
-    "empty-space"
+    "slideshow_wm7WH4",
+    "empty-space",
+    "main-404"
   ]
 }
